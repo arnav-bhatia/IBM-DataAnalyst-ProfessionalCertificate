@@ -1,4 +1,6 @@
-# Course-3 : Data Visualization and Dashboards with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Course-3 : Data Visualization and Dashboards with Excel and Cognos 
+
+Course Link : https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst
 
 ## About this Course
 The third course in the program is an introduction to data visualization using Microsoft Excel and IBM Cognos Analytics. It goes over the different types of charts and appropriate use cases for them before moving on to the process of creating dashboards in Excel and Cognos Analytics.
