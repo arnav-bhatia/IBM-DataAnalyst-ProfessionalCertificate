@@ -1,5 +1,7 @@
 # Course-2 : Excel Basics for Data Analysis <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
+Course Link : https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst
+
 ## About this Course
 This course goes over the basics of Microsoft Excel and equips the learner with the skills needed in Excel as a Data Analyst.
 
