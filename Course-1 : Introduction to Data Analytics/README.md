@@ -1,5 +1,7 @@
 # Course-1 : Introduction to Data Analytics <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
+Course Link : https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst
+
 ## About this Course
 As the introductory course in the program, the course teaches the learner the role, skills and tools required, and the responsibilities of a Data Analyst.
 
